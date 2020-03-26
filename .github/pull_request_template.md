@@ -1,3 +1,15 @@
+---
+name: Pull Request
+about: Create a pull request to help us improve
+title: "[PR]"
+labels: bug
+assignees: Coruna
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
 Please ensure your pull request adheres to the following guidelines:
 
 - [ ] Use the following format: `* [owner/repo](link)`
